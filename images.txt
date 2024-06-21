@@ -4,3 +4,4 @@ whyour/qinglong:latest
 lovechen/embyserver:latest
 superng6/qbittorrent:latest
 nyanmisaka/jellyfin:latest
+tailscale/tailscale
